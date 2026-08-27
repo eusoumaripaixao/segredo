@@ -68,7 +68,7 @@ h1 em { font-weight: 600; }
 .links {
   display: grid;
   gap: 12px;
-  margin-top: auto;
+ 
   padding-top: 46px;
 }
 
